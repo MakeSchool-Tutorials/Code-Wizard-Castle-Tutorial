@@ -1,11 +1,8 @@
 ---
-
-title: "Get started with writing tutorials!"
-
-slug: getting-started
-
+title: "Craft Your Spells"
+slug: craft-spells
 ---
-### Step 5 - Interacting with Objects
+
 It's time to add some interaction by giving your `wizard` some spells to cast.
 
 Let's have your `wizard` cast a spell when you click the mouse.

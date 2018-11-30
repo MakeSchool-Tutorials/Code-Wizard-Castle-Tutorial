@@ -1,16 +1,10 @@
 ---
-
-title: "Get started with writing tutorials!"
-
-slug: getting-started
-
+title: "Expand Your Powers"
+slug: expand-powers
 ---
-
-# Congrats!
 
 ![hour of code tracking pixel](https://code.org/api/hour/finish_makeschool_wizard.png "Hour of Code Tracking Pixel")
 
-### Step 6 - Celebrate!
 Congratulations, you've done it! You've completed the first steps on your Code Wizard journey.
 
 In this tutorial, you've worked with many of the fundamental building blocks of programming:

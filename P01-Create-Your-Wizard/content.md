@@ -1,22 +1,18 @@
 ---
-
-title: "Get started with writing tutorials!"
-
-slug: getting-started
-
+title: "Create Your Wizard"
+slug: create-wizard
 ---
 
+Now, let's start adding some magic. But first, we'll need a wizard!
 
-
-### Step 2 - Color Your Wizard
-Now that you've explored the difference between the two main functions that will control the program, let's start adding some magic! But first, we'll need a wizard!
-
-In programming, variables are how you save and refer to existing objects or values.
-
-- Add `var wizard, pet, magicScroll, broom;
+> [action]
+> Add `var wizard, pet, magicScroll, broom;
 ` to the *very top* of `sketch.js`, above `function setup()`
 
 You've just declared 4 global variables that will be available for all of your code to access.
+
+> [info]
+> In programming, variables are how you save and refer to existing objects or values.
 
 Next up, make and save a `Wizard` to the `wizard` variable, and then call the `drawWizard()` function to make it appear.
 

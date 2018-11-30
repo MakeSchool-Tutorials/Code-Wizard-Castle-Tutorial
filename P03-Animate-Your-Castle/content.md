@@ -1,13 +1,8 @@
 ---
-
-title: "Get started with writing tutorials!"
-
-slug: getting-started
-
+title: "Animate Your Castle"
+slug: animate-castle
 ---
 
-
-### Step 4 - Adding Movement
 Right now your castle is pretty static, with no movement other than your wizard looking around. Let's bring things to life!
 
 First let's give your `wizard` the ability to walk around, by adding another property `walkSpeed` and then calling a helper function that will update the position for you.

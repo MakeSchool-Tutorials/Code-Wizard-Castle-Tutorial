@@ -1,12 +1,7 @@
 ---
-
-title: "Get started with writing tutorials!"
-
-slug: getting-started
-
+title: "Decorate Your Castle"
+slug: decorate-castle
 ---
-
-### Step 3 - Fill Your Castle
 
 - Inside of `draw()`, add `drawCastle();` on a new line
 
