@@ -1,14 +1,45 @@
 ---
-
-title: "Get started with writing tutorials!"
-
+title: "Getting Started"
 slug: getting-started
-
 ---
 
-# Code Wizard Castle
-
 ![hour of code tracking pixel](https://code.org/api/hour/begin_makeschool_wizard.png "Hour of Code Tracking Pixel")
+
+This tutorial is a beginner+ friendly introduction to the basics of programming.
+
+You'll start out by copying code, then learning to modify parts of the code, and finally you will start writing your own code from scratch.
+
+At the end of the tutorial are additional challenges to push your programming understanding even further.
+
+## Navigating the Tutorial
+
+### Learning
+
+Along the way, important information will be highlighted in an...
+
+> [info]
+> information box
+
+### Doing
+
+Any time you need to add some code or complete and important step, you'll find it in an...
+
+> [action]
+> action box
+
+### Checking
+
+After you've come up with your own answer, you can mouse over the...
+
+> [solution]
+> solution box
+
+### Growing
+
+Along the way and at the end of the tutorial, you can push yourself by tackling all of the...
+
+> [challenge]
+> challenges in boxes like this
 
 ## What You'll Learn
 
@@ -25,8 +56,6 @@ slug: getting-started
 Starting from an empty canvas, you will soon be creating and customizing your own wizard and castle, and giving your wizard magical powers to interact with the world around you.
 
 ![screenshot of the final code wizard castle](assets/final_castle.png "Final Code Wizard Castle")
-
-You'll start out by using existing code, then learning to modify parts of the code, and finally you will start writing your own code from scratch.
 
 # Accessing the Starter Project
 
@@ -64,6 +93,7 @@ helperFunctions.js
 ```
 
 ## index.html
+
 The `index.html` page loads the content that you see in the browser when you run the program. Between the `<body>` and `</body>` tags is where things like page headers and paragraph text are found.
 
 > [challenge]
@@ -117,7 +147,6 @@ The line `createCanvas(400,400)` creates the canvas with a width and height of 4
 > Try adjusting the values passed to `createCanvas(width,height)` to see how the shape of the canvas changes
 >
 > Don't forget to reset it back to `createCanvas(400,400)` before you continue!
-
 
 The `draw()` function is a loop that runs forever for as long as you are running the program. This is the place for code that needs to update values or perform actions that should always happen.
 
