@@ -7,7 +7,7 @@ slug: expand-powers
 
 Congratulations, you've done it! You've completed the first steps on your Code Wizard journey.
 
-![completed castle](assets/completed_castle.png "completed castle")
+![completed castle](assets/final_castle.png "completed castle")
 
 ## Review
 

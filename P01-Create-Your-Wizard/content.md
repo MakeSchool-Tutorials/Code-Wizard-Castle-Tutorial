@@ -26,7 +26,9 @@ Run your program and you should now see a shadowy wizard form!
 
 ![shadowy wizard form](assets/shadow_wizard.png "Shadowy Wizard")
 
-Take a moment to check your code so far:
+## Check
+
+Take a moment to check your code so far.
 
 > [solution]
 >
@@ -96,6 +98,8 @@ Explore by changing the numbers, color names, and hexcodes and seeing what happe
 > Customize your wizard's name and the color of the letter on their chest.
 
 You should now have a custom and colorful wizard in the middle of your canvas!
+
+## Check
 
 > [solution]
 > ![custom colorful wizard](assets/colorful_wizard.png "custom colorful wizard")

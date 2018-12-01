@@ -1,13 +1,13 @@
-# Tutorial Template
+# Code Wizard Castle
 
-Each tutorial should have a `README.md` at the root with the following things included:
+## An Introduction to Code Magic
 
-1. Preview image or gif of the final product
-1. Last date / minor version of SDKs used the tutorial was tested on
-1. Pre-requisites to understand the tutorial
-1. Objectives for the tutorial
-1. Instructor FAQ (common areas students make get stuck on, bugs they may encounter, etc)
+**Begin your journey into the world of Code Magic a new Apprentice Code Wizard. Learn to harness the powers of Code Magic.**
 
-# Writing your own tutorial
+## Overview
 
-Use this repository as a starting point for your tutorial. Each tutorial must follow it's file structure and include all files included in this repository.
+In this tutorial you will build up your comfort working with the basic building blocks of programming.
+
+Starting from an empty canvas, you will soon be creating and customizing your own wizard and castle, and giving your wizard magical powers to interact with the world around you.
+
+You'll start out by using existing code, then learning to modify parts of the code, and finally you will start to write your own code from scratch.

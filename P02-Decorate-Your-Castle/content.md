@@ -164,7 +164,7 @@ Just like you did for adding the pet, you'll add some properties to each object 
 <!--  -->
 
 > [action]
-> Adjust the values so that the `magicScroll` is on the desk in the study, and the broom is by the fireplace in the kitchen.
+> Adjust the values so that the `magicScroll` is on the desk in the study, and the `broom` is by the fireplace in the kitchen.
 
 ![decorated castle](assets/decorated_castle.png "decorated castle")
 

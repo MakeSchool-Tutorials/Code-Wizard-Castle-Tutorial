@@ -5,11 +5,13 @@ slug: getting-started
 
 ![hour of code tracking pixel](https://code.org/api/hour/begin_makeschool_wizard.png "Hour of Code Tracking Pixel")
 
-This tutorial is a beginner+ friendly introduction to the basics of programming.
+![code wizard castle cover image](assets/cover.png "code wizard castle cover image")
+
+This tutorial is a beginner-friendly introduction to the basics of programming.
 
 You'll start out by copying code, then learning to modify parts of the code, and finally you will start writing your own code from scratch.
 
-At the end of the tutorial are additional challenges to push your programming understanding even further.
+At the end of the tutorial are additional challenges, for beginners and advanced learners, to push your programming understanding even further.
 
 ## Navigating the Tutorial
 
@@ -29,7 +31,7 @@ Any time you need to add some code or complete and important step, you'll find i
 
 ### Checking
 
-After you've come up with your own answer, you can mouse over the...
+After you've come up with your own answer, you can expand the...
 
 > [solution]
 > solution box
@@ -61,7 +63,7 @@ Starting from an empty canvas, you will soon be creating and customizing your ow
 
 Where will you actually write the code? There are two options for getting the starter project.
 
-## Best Choice --> Use repl.it
+## Best Option - Use repl.it
 
 Repl.it is a website makes it easy to jump right in to programming without having to set up a local environment. Whether you are a beginning or advanced programmer, it's a great way to jump right into the code.
 
@@ -72,7 +74,7 @@ Repl.it is a website makes it easy to jump right in to programming without havin
 
 <!-- TODO: Screenshot and overview of navigating repl.it project -->
 
-## Other Choice --> Use GitHub
+## Alternate Option - Use GitHub
 
 This tutorial does not cover working with GitHub or getting set up for local development of web projects, but if those are things you are already comfortable with, you can clone the starter project from GitHub.
 
