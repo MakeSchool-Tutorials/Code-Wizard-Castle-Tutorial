@@ -220,11 +220,3 @@ Just like you did for adding the pet, you'll add some properties to each object 
 > }
 > ```
 >
-
-# Review
-
-So far you have:
-
-- done something
-
-Up next, you'll !

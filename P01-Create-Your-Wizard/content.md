@@ -52,8 +52,6 @@ Take a moment to check your code so far:
 Time to bring your shadowy wizard to life with some colors.
 
 > [info]
-> **Using the `color()` function**
->
 > There are 4 main ways to use the `color()` function to create colors.
 >
 > 1. `color(number);`  // grayscale, 0-255, 0 for black, 255 for white
@@ -124,11 +122,3 @@ You should now have a custom and colorful wizard in the middle of your canvas!
 >}
 >```
 >
-
-# Review
-
-So far you have:
-
--
-
-Up next, you'll !

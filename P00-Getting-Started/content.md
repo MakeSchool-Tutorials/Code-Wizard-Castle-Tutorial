@@ -158,13 +158,3 @@ The line `background("lightgray")` fills the entire canvas with the color given.
 > Reset back to `background("lightgray")` before you continue (unless you want a castle floor that's a unique color).
 
 These four helper functions are provided by the [p5.js Library](p5js.org), which has been designed to make creating art and designs with code more accessible.
-
-# Review
-
-So far you have:
-
-- accessed the starter project
-- toured the project files
-- played with the first few lines of code
-
-Up next, you'll create your own wizard!
