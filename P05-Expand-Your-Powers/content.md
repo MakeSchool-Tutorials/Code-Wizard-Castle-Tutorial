@@ -20,6 +20,11 @@ In this tutorial, you've worked with many of the fundamental building blocks of 
 - if statements
 - loops
 
+Want to view the full project solution?
+
+> [solution]
+> View at [Code Wizard Castle Solution](https://repl.it/@MakeSchoolRAMP/CodeWizardCastleSolution)
+
 You are well on your way to becoming a Master Code Wizard.
 
 Best of luck in your future code adventures!
